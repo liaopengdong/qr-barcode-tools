@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://liaopengdong.github.io/qr-barcode-tools/sitemap.xml
